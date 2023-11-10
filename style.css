@@ -1,0 +1,16 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: aqua;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+section{
+    margin: 20px;
+    text-align: center;
+}
